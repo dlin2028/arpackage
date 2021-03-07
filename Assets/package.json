@@ -1,0 +1,7 @@
+{
+    "name": "com.arthing.arpackage",
+    "displayName": "ARThing package",
+    "version": "1.0.0",
+    "unity": "2020.1",
+    "description": "Adds a scene additively, then rotates the scene so that the camera is pointing at a specific location"
+}
